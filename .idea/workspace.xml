@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f102eb41-64c0-4986-aee2-828df4a45313" name="Changes" comment="ЛР3. Реализовано размытие изображения">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "X:/Studying/Acom/AcomKotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,6 +95,7 @@
       <updated>1729002358382</updated>
       <workItem from="1729002359475" duration="1055000" />
       <workItem from="1729058945633" duration="2645000" />
+      <workItem from="1729062185978" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="ЛР3. Реализовано размытие изображения">
       <option name="closed" value="true" />
