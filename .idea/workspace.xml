@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e78e93c-612e-4d52-9c4d-a28df90ae42b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cat-blur.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="6e78e93c-612e-4d52-9c4d-a28df90ae42b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +83,7 @@
       <workItem from="1730215199242" duration="3000" />
       <workItem from="1730473931079" duration="1000" />
       <workItem from="1730571769476" duration="9000" />
+      <workItem from="1731097193999" duration="11000" />
     </task>
     <servers />
   </component>
